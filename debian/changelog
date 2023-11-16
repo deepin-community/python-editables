@@ -1,5 +1,24 @@
-template-repository (1.0-1) unstable; urgency=medium
+python-editables (0.5-1) unstable; urgency=medium
 
-  * Initial release
+  * New upstream release.
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Boyuan Yang <byang@debian.org>  Thu, 03 Aug 2023 19:15:19 -0400
+
+python-editables (0.4-1) unstable; urgency=medium
+
+  * New upstream release.
+  * debian/control: Update Build-Dependencies.
+
+ -- Boyuan Yang <byang@debian.org>  Wed, 19 Jul 2023 14:07:01 -0400
+
+python-editables (0.3-2) unstable; urgency=medium
+
+  * Source-only upload.
+
+ -- Boyuan Yang <byang@debian.org>  Sat, 18 Feb 2023 18:31:19 -0500
+
+python-editables (0.3-1) unstable; urgency=medium
+
+  * Initial release. (Closes: #1030802)
+
+ -- Boyuan Yang <byang@debian.org>  Tue, 07 Feb 2023 10:48:22 -0500
